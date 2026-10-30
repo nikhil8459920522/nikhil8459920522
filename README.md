@@ -112,7 +112,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil8459920522&bg_color=0d1117&color=2bbc8a&line=2bbc8a&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
